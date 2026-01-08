@@ -1,0 +1,76 @@
+{
+  "title": "Manual Handling & Ergonomics",
+  "teaching": [
+    "- Manual handling refers to the process of lifting, carrying, pushing, or pulling items in the workplace.",
+    "- Ergonomics is the study of designing equipment and devices that fit the human body and its cognitive abilities.",
+    "- Employees have legal responsibilities to cooperate with health and safety measures implemented by their employer.",
+    "- Employers must conduct risk assessments to identify hazards associated with manual handling tasks.",
+    "- Protective equipment should be worn by employees when provided by employers to ensure safety.",
+    "- New or expectant mothers require a specific risk assessment to ensure their safety in the workplace.",
+    "- Reasonable adjustments must be made for employees who develop a disability affecting their work.",
+    "- PPE must be carefully inspected before each use to ensure it is effective and fits properly.",
+    "- Different materials are used in protective clothing to provide safety against various hazards.",
+    "- Leather is commonly used to protect workers from dry heat and flames.",
+    "- Duck fabric is effective in protecting against cuts and abrasions when handling sharp materials.",
+    "- Employees should be trained on how to properly lift and carry heavy items to prevent injury.",
+    "- Manual handling training can reduce the risk of musculoskeletal disorders in the workplace.",
+    "- It is essential to maintain a clean and organized workspace to minimize hazards.",
+    "- Regular breaks and changes in posture can help prevent fatigue and discomfort during manual handling tasks."
+  ],
+  "quiz": [
+    {
+      "id": "Q01",
+      "question": "Employees are not required to wear protective equipment provided by their employer.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "rationale": "Employees must wear protective equipment when it is provided to ensure their safety."
+    },
+    {
+      "id": "Q02",
+      "question": "What is the primary focus of ergonomics?",
+      "options": [
+        "Improving workplace aesthetics",
+        "Designing equipment to fit human capabilities",
+        "Increasing production speed",
+        "Reducing employee breaks"
+      ],
+      "answer": "Designing equipment to fit human capabilities",
+      "rationale": "Ergonomics focuses on designing equipment that fits human capabilities to enhance safety and efficiency."
+    },
+    {
+      "id": "Q03",
+      "question": "Risk assessments should be updated only once a year.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "rationale": "Risk assessments should be updated whenever there are changes in employee circumstances or workplace conditions."
+    },
+    {
+      "id": "Q04",
+      "question": "Which material is effective against dust and splashes?",
+      "options": [
+        "Duck fabric",
+        "Paper-like fiber",
+        "Leather",
+        "Treated wool"
+      ],
+      "answer": "Paper-like fiber",
+      "rationale": "Paper-like fiber is used for disposable suits to protect against dust and splashes."
+    },
+    {
+      "id": "Q05",
+      "question": "Making reasonable adjustments for employees with disabilities is optional.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "rationale": "Employers are required to make reasonable adjustments for employees with disabilities."
+    }
+  ]
+}

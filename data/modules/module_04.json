@@ -1,0 +1,76 @@
+{
+  "title": "Tools & Machinery Safety",
+  "teaching": [
+    "- Identify hazards associated with tools and machinery in the workplace.",
+    "- Assess the risks posed by identified hazards to workers' safety.",
+    "- Implement control measures to mitigate risks according to legal requirements.",
+    "- Compare existing safety practices with recognized good practices from HSE.",
+    "- Eliminate hazards whenever it is reasonably practicable to do so.",
+    "- Use less risky options to perform tasks instead of hazardous ones.",
+    "- Prevent access to hazards through effective guarding and barriers.",
+    "- Organize work processes to minimize workers' exposure to hazards.",
+    "- Provide appropriate personal protective equipment (PPE) to employees.",
+    "- Ensure welfare facilities, such as first aid and washing areas, are available.",
+    "- Involve employees in safety planning to enhance practical effectiveness.",
+    "- Evaluate the cost-effectiveness of safety measures against potential accident costs.",
+    "- Regularly review and update safety protocols based on workplace changes.",
+    "- Train employees on proper use of tools and machinery to ensure safety.",
+    "- Conduct routine inspections to identify and address new hazards."
+  ],
+  "quiz": [
+    {
+      "id": "Q01",
+      "question": "It is acceptable to ignore safety regulations if they are costly.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "rationale": "Ignoring safety regulations can lead to serious harm and legal consequences."
+    },
+    {
+      "id": "Q02",
+      "question": "What is the first principle to apply when controlling risks?",
+      "options": [
+        "Provide PPE",
+        "Prevent access to the hazard",
+        "Try a less risky option",
+        "Organize work to reduce exposure"
+      ],
+      "answer": "Try a less risky option",
+      "rationale": "The first step in controlling risks is to try a less risky option."
+    },
+    {
+      "id": "Q03",
+      "question": "Involving staff in safety measures can help identify new hazards.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "rationale": "Staff involvement can provide insights into practical safety challenges."
+    },
+    {
+      "id": "Q04",
+      "question": "Which of the following is NOT a method of controlling risks?",
+      "options": [
+        "Providing welfare facilities",
+        "Ignoring hazards",
+        "Using guarding",
+        "Switching to less hazardous chemicals"
+      ],
+      "answer": "Ignoring hazards",
+      "rationale": "Ignoring hazards does not control risks and is unsafe."
+    },
+    {
+      "id": "Q05",
+      "question": "Simple precautions can significantly reduce the likelihood of accidents.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "rationale": "Basic safety measures can effectively prevent accidents and injuries."
+    }
+  ]
+}

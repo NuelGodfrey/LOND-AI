@@ -1,0 +1,76 @@
+{
+  "title": "Electrical Safety Basics",
+  "teaching": [
+    "- The Occupational Safety and Health Act of 1970 aims to assure safe and healthful working conditions.",
+    "- Employers are encouraged to follow safety recommendations to create a safer workplace.",
+    "- Electrical hazards can cause severe injury or death, making awareness crucial.",
+    "- Always use appropriate personal protective equipment (PPE) when working with electrical systems.",
+    "- Nonconductive safety shoes are essential for employees exposed to electrical hazards.",
+    "- Conductive shoes should never be worn in areas with potential electrical hazards.",
+    "- Welding operations require protective eyewear that filters out harmful light wavelengths.",
+    "- Using a darker shade lens for welding can help protect your eyes from intense light.",
+    "- Ventilation and shock absorption are important features in safety helmets.",
+    "- Regular inspection of electrical tools and equipment can prevent accidents.",
+    "- Proper training in electrical safety can significantly reduce workplace incidents.",
+    "- Always de-energize equipment before performing maintenance or repairs.",
+    "- Using extension cords properly can prevent electrical fires and hazards.",
+    "- Identifying and labeling electrical panels and circuits enhances safety awareness.",
+    "- Emergency procedures for electrical incidents should be clearly communicated to all employees."
+  ],
+  "quiz": [
+    {
+      "id": "Q01",
+      "question": "Employees can wear conductive shoes in areas with electrical hazards.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "rationale": "Conductive shoes can complete an electrical circuit and pose a risk."
+    },
+    {
+      "id": "Q02",
+      "question": "What is the main purpose of the Occupational Safety and Health Act?",
+      "options": [
+        "To regulate wages",
+        "To assure safe working conditions",
+        "To enforce labor laws",
+        "To promote employee benefits"
+      ],
+      "answer": "To assure safe working conditions",
+      "rationale": "The Act's primary goal is to ensure safe and healthful working environments."
+    },
+    {
+      "id": "Q03",
+      "question": "Welders should use lighter shades of lenses for all types of welding.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "rationale": "Welders should start with a darker shade and adjust for visibility."
+    },
+    {
+      "id": "Q04",
+      "question": "What should be done before performing maintenance on electrical equipment?",
+      "options": [
+        "Wear gloves",
+        "De-energize the equipment",
+        "Inspect the equipment",
+        "Notify management"
+      ],
+      "answer": "De-energize the equipment",
+      "rationale": "De-energizing equipment is crucial for safety during maintenance."
+    },
+    {
+      "id": "Q05",
+      "question": "Personal protective equipment is optional when working with electrical systems.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "rationale": "PPE is essential for safety in electrical work."
+    }
+  ]
+}

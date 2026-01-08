@@ -1,0 +1,66 @@
+{
+  "title": "Hazardous Substances (COSHH)",
+  "teaching": [
+    "- Identify potential hazards by walking around the workplace and observing conditions.",
+    "- Consult employees and their representatives to gain insights on unnoticed hazards.",
+    "- Utilize resources like HSE Infoline for guidance on hazardous substances.",
+    "- Access Workplace Health Connect for free advice on workplace health issues.",
+    "- Contact trade associations for publications on managing hazardous substances.",
+    "- Review manufacturers' instructions and data sheets for information on chemicals and equipment.",
+    "- Analyze past accident and ill-health records to uncover hidden hazards.",
+    "- Consider long-term health hazards such as noise levels and exposure to harmful substances.",
+    "- Conduct regular hazard assessments to ensure a safe working environment.",
+    "- Document identified hazards and the precautions necessary to mitigate them.",
+    "- Stay informed about changes in regulations related to hazardous substances.",
+    "- Ensure all employees are trained on the risks associated with hazardous substances.",
+    "- Implement control measures for any identified physical or health hazards.",
+    "- Regularly review and update risk assessments as needed.",
+    "- Create a culture of safety where employees feel comfortable reporting hazards."
+  ],
+  "quiz": [
+    {
+      "id": "Q01",
+      "question": "Employees should not be consulted when identifying workplace hazards.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "rationale": "Consulting employees provides valuable insights into possible hazards."
+    },
+    {
+      "id": "Q02",
+      "question": "What is the purpose of a hazard assessment?",
+      "options": [
+        "To identify risks and control measures.",
+        "To document employee attendance.",
+        "To evaluate employee performance.",
+        "To monitor financial expenditures."
+      ],
+      "answer": "To identify risks and control measures.",
+      "rationale": "A hazard assessment aims to identify risks and the necessary control measures."
+    },
+    {
+      "id": "Q03",
+      "question": "Long-term health hazards should be considered in risk assessments.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "rationale": "Long-term hazards can significantly impact employee health."
+    },
+    {
+      "id": "Q04",
+      "question": "Which service provides free advice for small and medium-sized enterprises?",
+      "options": [
+        "HSE Infoline",
+        "Workplace Health Connect",
+        "Trade Associations",
+        "Manufacturers"
+      ],
+      "answer": "Workplace Health Connect",
+      "rationale": "Workplace Health Connect offers free advice on workplace health."
+    }
+  ]
+}

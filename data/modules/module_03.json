@@ -1,0 +1,76 @@
+{
+  "title": "Fire Protection & Evacuation",
+  "teaching": [
+    "- Employees in hazardous locations must wear conductive shoes to reduce static electricity buildup.",
+    "- Foot powder should not be used with conductive footwear due to increased fire risks.",
+    "- Exit doors must open with a force of 15 pounds or less for safe egress.",
+    "- No revolving, sliding, or overhead doors can serve as required exit doors.",
+    "- Adequate barriers must be provided where exit doors open onto areas with vehicle traffic.",
+    "- The number of exits must be appropriate for the occupant load of each floor.",
+    "- Exit routes must be marked with illuminated signs if not immediately apparent.",
+    "- Exit signs must have the word 'EXIT' in letters at least 6 inches high.",
+    "- Letters on exit signs should have a stroke width of at least 3/4 inch.",
+    "- Doors that could be mistaken for exits must be clearly labeled 'NOT AN EXIT' or similar.",
+    "- Emergency lighting should be tested for 30 seconds each month.",
+    "- Emergency lighting should be tested annually for 90 minutes.",
+    "- Designated workers are responsible for testing emergency lighting.",
+    "- Routes to exits must be kept clear and unobstructed at all times.",
+    "- Workers should be trained on the evacuation plan and exit locations."
+  ],
+  "quiz": [
+    {
+      "id": "Q01",
+      "question": "Foot powder can be safely used with conductive footwear.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "rationale": "Foot powder increases the risk of static electricity."
+    },
+    {
+      "id": "Q02",
+      "question": "Exit doors must open with a force greater than 15 pounds.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "rationale": "Exit doors must open with a force of 15 pounds or less."
+    },
+    {
+      "id": "Q03",
+      "question": "What is the minimum height for exit sign lettering?",
+      "options": [
+        "4 inches",
+        "6 inches",
+        "8 inches",
+        "10 inches"
+      ],
+      "answer": "6 inches",
+      "rationale": "Exit signs must have lettering at least 6 inches high."
+    },
+    {
+      "id": "Q04",
+      "question": "Which of the following can serve as a required exit door?",
+      "options": [
+        "Revolving door",
+        "Side-hinged door",
+        "Sliding door",
+        "Overhead door"
+      ],
+      "answer": "Side-hinged door",
+      "rationale": "Only side-hinged doors can serve as required exit doors."
+    },
+    {
+      "id": "Q05",
+      "question": "Emergency lighting should be tested every month.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "rationale": "Emergency lighting is required to be tested monthly."
+    }
+  ]
+}

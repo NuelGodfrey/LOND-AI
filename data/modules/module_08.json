@@ -1,0 +1,76 @@
+{
+  "title": "Risk Assessment — Five Steps",
+  "teaching": [
+    "- Risk assessment is essential for workplace safety and legal compliance.",
+    "- It helps identify risks that could cause significant harm to workers.",
+    "- Simple measures can often effectively control risks in the workplace.",
+    "- Cleaning up spills promptly can prevent slip hazards.",
+    "- Keeping cupboard drawers closed can prevent trip hazards.",
+    "- The law requires you to protect workers as far as 'reasonably practicable'.",
+    "- A risk assessment involves examining potential harms in your work environment.",
+    "- It's important to determine who might be harmed by specific hazards.",
+    "- Identifying groups of people at risk helps in managing those risks.",
+    "- You should assess the types of injuries or ill health that could occur.",
+    "- Accidents can lead to lost productivity and increased insurance costs.",
+    "- A proper risk assessment can prevent legal issues and improve workplace safety.",
+    "- Risk assessments should be reviewed regularly and updated as needed.",
+    "- There are various methods for conducting risk assessments, each suitable for different situations.",
+    "- The goal of risk assessment is to create a safer working environment."
+  ],
+  "quiz": [
+    {
+      "id": "Q01",
+      "question": "Risk assessments are optional for most businesses.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "rationale": "All businesses are legally required to conduct risk assessments."
+    },
+    {
+      "id": "Q02",
+      "question": "What is the primary purpose of a risk assessment?",
+      "options": [
+        "To eliminate all risks",
+        "To identify potential hazards and manage them",
+        "To increase insurance costs",
+        "To document employee information"
+      ],
+      "answer": "To identify potential hazards and manage them",
+      "rationale": "The main goal of a risk assessment is to identify and manage potential hazards."
+    },
+    {
+      "id": "Q03",
+      "question": "Cleaning spills promptly can help reduce slip hazards.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "rationale": "Promptly cleaning spills is a straightforward measure to prevent slips."
+    },
+    {
+      "id": "Q04",
+      "question": "Which of the following is an example of a control measure?",
+      "options": [
+        "Ignoring hazards",
+        "Documenting accidents",
+        "Keeping cupboard drawers closed",
+        "Increasing work hours"
+      ],
+      "answer": "Keeping cupboard drawers closed",
+      "rationale": "Keeping cupboard drawers closed helps prevent trip hazards."
+    },
+    {
+      "id": "Q05",
+      "question": "Risk assessments should be conducted only once.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "rationale": "Risk assessments should be reviewed and updated regularly."
+    }
+  ]
+}

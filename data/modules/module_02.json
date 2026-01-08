@@ -1,0 +1,76 @@
+{
+  "title": "Slips, Trips & Falls",
+  "teaching": [
+    "- A hazard is anything that may cause harm in the workplace.",
+    "- Risks are the chances of someone being harmed by hazards.",
+    "- Common workplace hazards include chemicals, electricity, and sharp edges.",
+    "- Employees moving heavy loads may be at risk of back injuries.",
+    "- Slips, trips, and falls are prevalent causes of workplace injuries.",
+    "- Involving staff in risk assessments can yield valuable insights.",
+    "- It's important to identify and assess all potential hazards during a survey.",
+    "- Regularly reviewing past occupational injuries can help prevent future incidents.",
+    "- Control measures should be easy to implement and monitor.",
+    "- If unsure about conducting a risk assessment, seek help from a competent advisor.",
+    "- A walkthrough survey helps identify sources of motion and potential impacts.",
+    "- High temperatures in the workplace can result in burns and eye injuries.",
+    "- Chemicals used in the workplace must be managed to avoid harmful exposure.",
+    "- Sources of harmful dust should be monitored and controlled.",
+    "- Light radiation from processes like welding poses risks that must be assessed."
+  ],
+  "quiz": [
+    {
+      "id": "Q01",
+      "question": "Employees should always be involved in the risk assessment process.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "rationale": "Staff can provide essential insights about their work environment."
+    },
+    {
+      "id": "Q02",
+      "question": "What is considered a hazard?",
+      "options": [
+        "A potential source of harm",
+        "The chance of injury occurring",
+        "An assessment tool",
+        "A safety training program"
+      ],
+      "answer": "A potential source of harm",
+      "rationale": "A hazard is defined as anything that may cause harm."
+    },
+    {
+      "id": "Q03",
+      "question": "You must be a health and safety expert to conduct a risk assessment.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "rationale": "Anyone can conduct a risk assessment if they understand the hazards."
+    },
+    {
+      "id": "Q04",
+      "question": "Which of the following is a source of risk in the workplace?",
+      "options": [
+        "Safety gear",
+        "Chemical spills",
+        "Emergency exits",
+        "Safety training"
+      ],
+      "answer": "Chemical spills",
+      "rationale": "Chemical spills are a direct source of risk in the workplace."
+    },
+    {
+      "id": "Q05",
+      "question": "It is unnecessary to review the history of occupational illnesses when assessing risks.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "rationale": "Reviewing past incidents can help identify potential future risks."
+    }
+  ]
+}

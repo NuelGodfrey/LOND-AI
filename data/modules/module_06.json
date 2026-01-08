@@ -1,0 +1,66 @@
+{
+  "title": "PPE Essentials",
+  "teaching": [
+    "- PPE stands for Personal Protective Equipment and is designed to minimize exposure to hazards.",
+    "- Employers are responsible for performing a hazard assessment to identify workplace hazards.",
+    "- Types of PPE include gloves, eye protection, hearing protection, hard hats, and respirators.",
+    "- A hazard assessment helps in selecting the appropriate PPE for specific job tasks.",
+    "- Proper training in the use and care of PPE is essential for employee safety.",
+    "- Employees must wear PPE correctly to ensure maximum protection.",
+    "- PPE must be maintained and replaced if it becomes worn or damaged.",
+    "- Employers must provide PPE at no cost to employees if required by OSHA standards.",
+    "- Regular reviews of the PPE program help ensure its effectiveness.",
+    "- Employees should attend training sessions to understand PPE usage.",
+    "- It is important for employees to clean and care for their PPE regularly.",
+    "- Workers should inform supervisors when PPE needs repair or replacement.",
+    "- Engineering and administrative controls should be implemented before relying on PPE.",
+    "- PPE should be selected based on the specific hazards present in the workplace.",
+    "- Employers and employees must cooperate to maintain a safe working environment."
+  ],
+  "quiz": [
+    {
+      "id": "Q01",
+      "question": "Employers are required to provide PPE at no cost to employees.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "rationale": "OSHA mandates employers to provide necessary PPE at no cost."
+    },
+    {
+      "id": "Q02",
+      "question": "Which of the following is NOT considered PPE?",
+      "options": [
+        "Gloves",
+        "Safety goggles",
+        "First aid kit",
+        "Respirators"
+      ],
+      "answer": "First aid kit",
+      "rationale": "A first aid kit is not personal protective equipment."
+    },
+    {
+      "id": "Q03",
+      "question": "Employees are responsible for maintaining their PPE.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "rationale": "Employees should care for, clean, and maintain their PPE."
+    },
+    {
+      "id": "Q04",
+      "question": "What should employees do if their PPE is damaged?",
+      "options": [
+        "Continue using it until it breaks completely",
+        "Inform a supervisor for repair or replacement",
+        "Throw it away without reporting",
+        "Attempt to fix it themselves"
+      ],
+      "answer": "Inform a supervisor for repair or replacement",
+      "rationale": "Employees should inform supervisors when PPE needs repair or replacement."
+    }
+  ]
+}
